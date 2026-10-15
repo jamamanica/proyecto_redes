@@ -1,0 +1,20 @@
+sequenceDiagram
+    autonumber
+    actor Medico as Médico (Consultorio 1)
+    participant Host as PC Médico (Estación de Trabajo)
+    participant Sw as Switch PoE+ 48P (Rack MDF)
+    participant Srv as Servidor EHR (Historias Clínicas)
+
+    Note over Medico,Host: Médico solicita historial clínico: GET /historia/45871239
+    Note over Host: 1. Capa Aplicación (HTTP): Datos útiles (Payload)<br/>2. Capa Presentación: Formato JSON / UTF-8<br/>3. Capa Sesión: Mantenimiento de conexión activa
+
+    Host->>Host: 4. Capa Transporte (TCP)<br/>Agrega encabezado TCP (Puerto Origen: 49201 - Puerto Destino: 443 - SEQ=100)<br/>PDU = SEGMENTO
+    Host->>Host: 5. Capa Red (IP)<br/>Agrega encabezado IP (IP Origen: PC_Médico - IP Destino: Servidor_EHR - TTL=64)<br/>PDU = PAQUETE
+    Host->>Host: 6. Capa Enlace de Datos (Ethernet IEEE 802.3)<br/>Agrega MAC Origen: PC, MAC Destino: Servidor_EHR y Cola CRC/FCS<br/>PDU = TRAMA
+
+    Host->>Sw: 7. Capa Física (Codificación PAM-5 sobre UTP Cat 6)<br/>Transmisión de pulsos de voltaje eléctrico a través de los 4 pares de cobre<br/>PDU = BITS
+
+    Note over Sw: Switch lee MAC Destino en Capa 2 y conmuta la trama hacia el puerto del Servidor
+    Sw->>Srv: Reenvío de bits por cable UTP Cat 6
+
+    Note over Srv: PROCESO INVERSO (DESENCAPSULACIÓN):<br/>1. Física: Convierte pulsos eléctricos a BITS<br/>2. Enlace: Lee trama, valida CRC y retira encabezado MAC<br/>3. Red: Valida IP destino y retira encabezado IP<br/>4. Transporte: Reensambla segmentos TCP y valida puertos<br/>5. Aplicación: Servidor procesa consulta y devuelve historial médico cifrado

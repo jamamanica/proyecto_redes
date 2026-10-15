@@ -1,0 +1,80 @@
+@startuml topologia_policlinico_san_gabriel
+skinparam linetype ortho
+skinparam nodesep 40
+skinparam ranksep 50
+skinparam packageStyle rectangle
+
+title Topología Física en Estrella - Policlínico San Gabriel
+
+package "Cuarto de Telecomunicaciones (MDF)" {
+    node "Rack 24U" {
+        [Router / Firewall ISP] as ROUTER
+        [Switch 48P Gigabit PoE+] as SWITCH
+        [Servidor EHR Historias Clínicas] as EHR
+        [Servidor NAS Respaldo] as NAS
+        [NVR Cámaras 16Ch] as NVR
+        
+        ROUTER --> SWITCH
+        EHR --> SWITCH
+        NAS --> SWITCH
+        NVR --> SWITCH
+    }
+}
+
+package "Admisión y Triaje" {
+    [4x Computadoras Admisión] as PC_ADM
+    [2x Impresoras Térmicas] as IMP_ADM
+    [AP-02 Wi-Fi] as AP2
+}
+
+package "Consultorios Médicos (6)" {
+    [6x Computadoras Médicas] as PC_MED
+    [2x Impresoras Compartidas] as IMP_MED
+    [AP-01 Wi-Fi] as AP1
+}
+
+package "Laboratorio y Rayos X" {
+    [3x Computadoras Laboratorio] as PC_LAB
+    [1x Analizador Clínico LAN] as EQ_LAB
+    [1x Impresora Etiquetas] as IMP_LAB
+}
+
+package "Farmacia" {
+    [3x Computadoras POS] as PC_FAR
+    [1x Impresora Fiscal] as IMP_FAR
+    [AP-03 Wi-Fi] as AP3
+}
+
+package "Administración" {
+    [5x Computadoras Administración] as PC_ADM_ADM
+    [1x Impresora Multifuncional] as IMP_ADM_ADM
+    [AP-04 Wi-Fi] as AP4
+}
+
+package "Videovigilancia" {
+    [8x Cámaras IP PoE] as CAMS
+}
+
+SWITCH -- PC_ADM : UTP Cat 6
+SWITCH -- IMP_ADM : UTP Cat 6
+SWITCH .. AP2 : UTP Cat 6 (PoE)
+
+SWITCH -- PC_MED : UTP Cat 6
+SWITCH -- IMP_MED : UTP Cat 6
+SWITCH .. AP1 : UTP Cat 6 (PoE)
+
+SWITCH -- PC_LAB : UTP Cat 6
+SWITCH -- EQ_LAB : UTP Cat 6
+SWITCH -- IMP_LAB : UTP Cat 6
+
+SWITCH -- PC_FAR : UTP Cat 6
+SWITCH -- IMP_FAR : UTP Cat 6
+SWITCH .. AP3 : UTP Cat 6 (PoE)
+
+SWITCH -- PC_ADM_ADM : UTP Cat 6
+SWITCH -- IMP_ADM_ADM : UTP Cat 6
+SWITCH .. AP4 : UTP Cat 6 (PoE)
+
+SWITCH .. CAMS : UTP Cat 6 (PoE)
+
+@enduml
