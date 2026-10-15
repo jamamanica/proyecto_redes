@@ -1,49 +1,46 @@
-```mermaid
 graph TD
     subgraph "Cuarto de Telecomunicaciones (MDF / Rack 24U)"
         SW[Switch Principal 48 Puertos PoE+ Gigabit]
-        SRV[Servidor Historias Clínicas EHR / HIS]
-        NAS[Almacenamiento NAS Respaldo]
-        NVR[Grabador de Video NVR 16 Canales]
-        ROUTER[Router / Firewall de Borde]
-        
+        SRV[Servidor Catálogo OPAC / KOHA]
+        NAS[Almacenamiento NAS Respaldo Digital]
+        NVR[Grabador de Video NVR Cámaras IP]
+        ROUTER[Router / Gateway de Borde ISP]
+
         ROUTER --> SW
         SRV --> SW
         NAS --> SW
         NVR --> SW
     end
 
-    subgraph "Área de Admisión y Triaje"
-        SW --- PC_ADM[4 PCs Admisión / Triaje]
-        SW --- IMP_TICK[2 Impresoras de Tickets]
-        SW -. PoE .-> AP2[AP-02 Wi-Fi Techo]
+    subgraph "Sala de Cómputo Estudiantil"
+        SW --> PC_EST[16 PCs para Estudiantes - Ethernet Cat 6]
+        SW -. PoE .-> AP2[AP-02 Wi-Fi 6 Techo Cómputo]
     end
 
-    subgraph "Consultorios Médicos (6 Salas)"
-        SW --- PC_MED[6 PCs Médicas Especialistas]
-        SW --- IMP_MED[2 Impresoras Láser Red]
-        SW -. PoE .-> AP1[AP-01 Wi-Fi Techo]
+    subgraph "Módulos de Consulta OPAC (Pasillos)"
+        SW --> OPAC[4 Terminales Táctiles Catálogo OPAC]
     end
 
-    subgraph "Laboratorio y Rayos X"
-        SW --- PC_LAB[3 PCs Análisis Clínico]
-        SW --- LAB_EQ[1 Analizador Bioquímico LAN]
-        SW --- IMP_LAB[1 Impresora Código Barras]
+    subgraph "Cubículos de Estudio Grupal (3 Salas)"
+        SW --> CUB[6 Puntos de Red Dobles en Mesas]
+        SW --> TV[3 Pantallas Smart TV Interactivas]
+        SW -. PoE .-> AP3[AP-03 Wi-Fi 6 Pasillo Cubículos]
     end
 
-    subgraph "Farmacia Institucional"
-        SW --- PC_FAR[3 PCs Puntos de Venta POS]
-        SW --- IMP_FAR[1 Impresora Fiscal Red]
-        SW -. PoE .-> AP3[AP-03 Wi-Fi Techo]
+    subgraph "Sala de Lectura Silenciosa e Investigación"
+        SW -. PoE .-> AP1[AP-01 Wi-Fi 6 Techo Sala Lectura]
     end
 
-    subgraph "Administración y Gerencia"
-        SW --- PC_ADM2[5 PCs Contabilidad / Gerencia]
-        SW --- IMP_MF[1 Impresora Multifuncional]
-        SW -. PoE .-> AP4[AP-04 Wi-Fi Techo]
+    subgraph "Recepción, Préstamo y Circulación"
+        SW --> PC_BIB[3 PCs Bibliotecarios]
+        SW --> IMP_BIB[1 Impresora Multifuncional de Red]
+        SW -. PoE .-> AP4[AP-04 Wi-Fi 6 Techo Recepción]
     end
 
-    subgraph "Sistema de Seguridad Perimétrica"
-        SW -. PoE .-> CAM[8 Cámaras Domo IP 1080p]
+    subgraph "Dirección y Catalogación Técnica"
+        SW --> PC_DIR[2 PCs Gestión y Catalogación]
     end
-```
+
+    subgraph "Seguridad Perimétrica"
+        SW -. PoE .-> CAM[4 Cámaras Domo IP 1080p]
+    end
