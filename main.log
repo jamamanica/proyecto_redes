@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.16)  16 OCT 2026 00:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.16)  16 OCT 2026 10:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -118,24 +118,36 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
+(C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.s
 ty
 Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
+\KV@toks@=\toks21
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count286
 )
-\MT@toks=\toks21
+\MT@toks=\toks22
 \MT@tempbox=\box53
 \MT@count=\count287
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
 LaTeX Info: Redefining \leftprotrusion on input line 1085.
-\MT@prot@toks=\toks22
+\MT@prot@toks=\toks23
 LaTeX Info: Redefining \rightprotrusion on input line 1104.
 LaTeX Info: Redefining \textls on input line 1449.
 \MT@outer@kern=\dimen150
@@ -178,7 +190,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layoutheight=\dimen156
 \Gm@layouthoffset=\dimen157
 \Gm@layoutvoffset=\dimen158
-\Gm@dimlist=\toks23
+\Gm@dimlist=\toks24
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
 )) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
@@ -216,12 +228,12 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen159
 \ar@mcellbox=\box54
 \extrarowheight=\dimen160
-\NC@list=\toks24
+\NC@list=\toks25
 \extratabsurround=\skip52
 \backup@length=\skip53
 \ar@cellbox=\box55
 )
-\everycr=\toks25
+\everycr=\toks26
 \minrowclearance=\skip54
 \rownum=\count292
 )
@@ -245,9 +257,9 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count293
-\float@exts=\toks26
+\float@exts=\toks27
 \float@box=\box56
-\@float@everytoks=\toks27
+\@float@everytoks=\toks28
 \@floatcapt=\box57
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.st
@@ -303,7 +315,7 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@target=\dimen187
 \TX@delta=\dimen188
 \TX@cols=\count302
-\TX@ftn=\toks28
+\TX@ftn=\toks29
 ) (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip55
@@ -321,38 +333,45 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LT@rows=\count305
 \c@LT@tables=\count306
 \c@LT@chunks=\count307
-\LT@p@ftn=\toks29
+\LT@p@ftn=\toks30
+)
+(C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip59
+\multirow@cntb=\count308
+\multirow@dima=\skip60
+\bigstrutjot=\dimen190
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
-\labelindent=\skip59
-\enit@outerparindent=\dimen190
-\enit@toks=\toks30
+\labelindent=\skip61
+\enit@outerparindent=\dimen191
+\enit@toks=\toks31
 \enit@inbox=\box63
-\enit@count@id=\count308
-\enitdp@description=\count309
+\enit@count@id=\count309
+\enitdp@description=\count310
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count310
+\lst@mode=\count311
 \lst@gtempboxa=\box64
-\lst@token=\toks31
-\lst@length=\count311
-\lst@currlwidth=\dimen191
-\lst@column=\count312
-\lst@pos=\count313
-\lst@lostspace=\dimen192
-\lst@width=\dimen193
-\lst@newlines=\count314
-\lst@lineno=\count315
-\lst@maxwidth=\dimen194
+\lst@token=\toks32
+\lst@length=\count312
+\lst@currlwidth=\dimen192
+\lst@column=\count313
+\lst@pos=\count314
+\lst@lostspace=\dimen193
+\lst@width=\dimen194
+\lst@newlines=\count315
+\lst@lineno=\count316
+\lst@maxwidth=\dimen195
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
 File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
-\c@lstnumber=\count316
-\lst@skipnumbers=\count317
+\c@lstnumber=\count317
+\lst@skipnumbers=\count318
 \lst@framebox=\box65
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
@@ -379,9 +398,9 @@ y
 sty
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
 il-common.tex
-\pgfutil@everybye=\toks32
-\pgfutil@tempdima=\dimen195
-\pgfutil@tempdimb=\dimen196
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen196
+\pgfutil@tempdimb=\dimen197
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
 il-latex.def
@@ -405,33 +424,33 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
 ys.code.tex
-\pgfkeys@pathtoks=\toks33
-\pgfkeys@temptoks=\toks34
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
 yslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks35
+\pgfkeys@tmptoks=\toks36
 ))
-\pgf@x=\dimen197
-\pgf@y=\dimen198
-\pgf@xa=\dimen199
-\pgf@ya=\dimen256
-\pgf@xb=\dimen257
-\pgf@yb=\dimen258
-\pgf@xc=\dimen259
-\pgf@yc=\dimen260
-\pgf@xd=\dimen261
-\pgf@yd=\dimen262
+\pgf@x=\dimen198
+\pgf@y=\dimen199
+\pgf@xa=\dimen256
+\pgf@ya=\dimen257
+\pgf@xb=\dimen258
+\pgf@yb=\dimen259
+\pgf@xc=\dimen260
+\pgf@yc=\dimen261
+\pgf@xd=\dimen262
+\pgf@yd=\dimen263
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count318
-\c@pgf@countb=\count319
-\c@pgf@countc=\count320
-\c@pgf@countd=\count321
-\t@pgf@toka=\toks36
-\t@pgf@tokb=\toks37
-\t@pgf@tokc=\toks38
-\pgf@sys@id@count=\count322
+\c@pgf@counta=\count319
+\c@pgf@countb=\count320
+\c@pgf@countc=\count321
+\c@pgf@countd=\count322
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count323
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
 .cfg
@@ -450,8 +469,8 @@ File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
 syssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfsyssoftpath@smallbuffer@items=\count323
-\pgfsyssoftpath@bigbuffer@items=\count324
+\pgfsyssoftpath@smallbuffer@items=\count324
+\pgfsyssoftpath@bigbuffer@items=\count325
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
 sysprotocol.code.tex
@@ -467,12 +486,12 @@ de.tex
 l.code.tex)
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
 ser.code.tex
-\pgfmath@dimen=\dimen263
-\pgfmath@count=\count325
+\pgfmath@dimen=\dimen264
+\pgfmath@count=\count326
 \pgfmath@box=\box67
-\pgfmath@toks=\toks39
-\pgfmath@stack@operand=\toks40
-\pgfmath@stack@operation=\toks41
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
 ctions.code.tex)
@@ -496,39 +515,39 @@ ctions.integerarithmetics.code.tex)
 c.code.tex)
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
 at.code.tex
-\c@pgfmathroundto@lastzeros=\count326
+\c@pgfmathroundto@lastzeros=\count327
 ))
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
 e.tex)
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@picminx=\dimen264
-\pgf@picmaxx=\dimen265
-\pgf@picminy=\dimen266
-\pgf@picmaxy=\dimen267
-\pgf@pathminx=\dimen268
-\pgf@pathmaxx=\dimen269
-\pgf@pathminy=\dimen270
-\pgf@pathmaxy=\dimen271
-\pgf@xx=\dimen272
-\pgf@xy=\dimen273
-\pgf@yx=\dimen274
-\pgf@yy=\dimen275
-\pgf@zx=\dimen276
-\pgf@zy=\dimen277
+\pgf@picminx=\dimen265
+\pgf@picmaxx=\dimen266
+\pgf@picminy=\dimen267
+\pgf@picmaxy=\dimen268
+\pgf@pathminx=\dimen269
+\pgf@pathmaxx=\dimen270
+\pgf@pathminy=\dimen271
+\pgf@pathmaxy=\dimen272
+\pgf@xx=\dimen273
+\pgf@xy=\dimen274
+\pgf@yx=\dimen275
+\pgf@yy=\dimen276
+\pgf@zx=\dimen277
+\pgf@zy=\dimen278
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@path@lastx=\dimen278
-\pgf@path@lasty=\dimen279
+\pgf@path@lastx=\dimen279
+\pgf@path@lasty=\dimen280
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@shorten@end@additional=\dimen280
-\pgf@shorten@start@additional=\dimen281
+\pgf@shorten@end@additional=\dimen281
+\pgf@shorten@start@additional=\dimen282
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orescopes.code.tex
@@ -536,19 +555,19 @@ File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box68
 \pgf@hbox=\box69
 \pgf@layerbox@main=\box70
-\pgf@picture@serial@count=\count327
+\pgf@picture@serial@count=\count328
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 oregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgflinewidth=\dimen282
+\pgflinewidth=\dimen283
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 oretransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@pt@x=\dimen283
-\pgf@pt@y=\dimen284
-\pgf@pt@temp=\dimen285
+\pgf@pt@x=\dimen284
+\pgf@pt@y=\dimen285
+\pgf@pt@temp=\dimen286
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orequick.code.tex
@@ -565,14 +584,14 @@ File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 orearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfarrowsep=\dimen286
+\pgfarrowsep=\dimen287
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 oreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@max=\dimen287
-\pgf@sys@shading@range@num=\count328
-\pgf@shadingcount=\count329
+\pgf@max=\dimen288
+\pgf@sys@shading@range@num=\count329
+\pgf@shadingcount=\count330
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
 oreimage.code.tex
@@ -611,8 +630,8 @@ File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
 comp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@nodesepstart=\dimen288
-\pgf@nodesepend=\dimen289
+\pgf@nodesepstart=\dimen289
+\pgf@nodesepend=\dimen290
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
 comp-version-1-18.sty
@@ -630,10 +649,10 @@ de.tex))
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffo
 r.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
-\pgffor@iter=\dimen290
-\pgffor@skip=\dimen291
-\pgffor@stack=\toks42
-\pgffor@toks=\toks43
+\pgffor@iter=\dimen291
+\pgffor@skip=\dimen292
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
 ))
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz\tikz.code.tex
@@ -642,34 +661,34 @@ Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
 braryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@plot@mark@count=\count330
-\pgfplotmarksize=\dimen292
+\pgf@plot@mark@count=\count331
+\pgfplotmarksize=\dimen293
 )
-\tikz@lastx=\dimen293
-\tikz@lasty=\dimen294
-\tikz@lastxsaved=\dimen295
-\tikz@lastysaved=\dimen296
-\tikz@lastmovetox=\dimen297
-\tikz@lastmovetoy=\dimen298
-\tikzleveldistance=\dimen299
-\tikzsiblingdistance=\dimen300
+\tikz@lastx=\dimen294
+\tikz@lasty=\dimen295
+\tikz@lastxsaved=\dimen296
+\tikz@lastysaved=\dimen297
+\tikz@lastmovetox=\dimen298
+\tikz@lastmovetoy=\dimen299
+\tikzleveldistance=\dimen300
+\tikzsiblingdistance=\dimen301
 \tikz@figbox=\box73
 \tikz@figbox@bg=\box74
 \tikz@tempbox=\box75
 \tikz@tempbox@bg=\box76
-\tikztreelevel=\count331
-\tikznumberofchildren=\count332
-\tikznumberofcurrentchild=\count333
-\tikz@fig@count=\count334
+\tikztreelevel=\count332
+\tikznumberofchildren=\count333
+\tikznumberofcurrentchild=\count334
+\tikz@fig@count=\count335
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
 lematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfmatrixcurrentrow=\count335
-\pgfmatrixcurrentcolumn=\count336
-\pgf@matrix@numberofcolumns=\count337
+\pgfmatrixcurrentrow=\count336
+\pgfmatrixcurrentcolumn=\count337
+\pgf@matrix@numberofcolumns=\count338
 )
-\tikz@expandcount=\count338
+\tikz@expandcount=\count339
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibrarytopaths.code.tex
@@ -677,8 +696,8 @@ File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks44
-\verbatim@line=\toks45
+\every@verbatim=\toks45
+\verbatim@line=\toks46
 \verbatim@in@stream=\read4
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
@@ -688,17 +707,17 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 .sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks46
+\@envbody=\toks47
 )
 \tcb@titlebox=\box77
 \tcb@upperbox=\box78
 \tcb@lowerbox=\box79
 \tcb@phantombox=\box80
-\c@tcbbreakpart=\count339
-\c@tcblayer=\count340
-\c@tcolorbox@number=\count341
+\c@tcbbreakpart=\count340
+\c@tcblayer=\count341
+\c@tcolorbox@number=\count342
 \l__tcobox_tmpa_box=\box81
-\l__tcobox_tmpa_dim=\dimen301
+\l__tcobox_tmpa_dim=\dimen302
 \tcb@temp=\box82
 \tcb@temp=\box83
 \tcb@temp=\box84
@@ -715,8 +734,8 @@ Package: tikzfill.image 2026/04/23 v1.2.0 Image filling library for TikZ
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryf
 ill.image.code.tex
 File: tikzlibraryfill.image.code.tex 2026/04/23 v1.2.0 Image filling library
-\l__tikzfill_tmpa_dim=\dimen302
-\l__tikzfill_tmpb_dim=\dimen303
+\l__tikzfill_tmpa_dim=\dimen303
+\l__tikzfill_tmpb_dim=\dimen304
 \l__tikzfill_img_box=\box86
 ))
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjig
@@ -744,21 +763,21 @@ Package pdfcol Info: New color stack `tcb@breakable' = 1 on input line 23.
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip60
-\f@nch@offset@elh=\skip61
-\f@nch@offset@erh=\skip62
-\f@nch@offset@olh=\skip63
-\f@nch@offset@orh=\skip64
-\f@nch@offset@elf=\skip65
-\f@nch@offset@erf=\skip66
-\f@nch@offset@olf=\skip67
-\f@nch@offset@orf=\skip68
-\f@nch@height=\skip69
-\f@nch@footalignment=\skip70
-\f@nch@widthL=\skip71
-\f@nch@widthC=\skip72
-\f@nch@widthR=\skip73
-\@temptokenb=\toks47
+\f@nch@headwidth=\skip62
+\f@nch@offset@elh=\skip63
+\f@nch@offset@erh=\skip64
+\f@nch@offset@olh=\skip65
+\f@nch@offset@orh=\skip66
+\f@nch@offset@elf=\skip67
+\f@nch@offset@erf=\skip68
+\f@nch@offset@olf=\skip69
+\f@nch@offset@orf=\skip70
+\f@nch@height=\skip71
+\f@nch@footalignment=\skip72
+\f@nch@widthL=\skip73
+\f@nch@widthC=\skip74
+\f@nch@widthR=\skip75
+\@temptokenb=\toks48
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
@@ -771,20 +790,20 @@ MM)
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemode
 rn.sty
 Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
-\c@lastpagecount=\count342
+\c@lastpagecount=\count343
 ) 
 ))
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box90
-\beforetitleunit=\skip74
-\aftertitleunit=\skip75
-\ttl@plus=\dimen304
-\ttl@minus=\dimen305
-\ttl@toksa=\toks48
-\titlewidth=\dimen306
-\titlewidthlast=\dimen307
-\titlewidthfirst=\dimen308
+\beforetitleunit=\skip76
+\aftertitleunit=\skip77
+\ttl@plus=\dimen305
+\ttl@minus=\dimen306
+\ttl@toksa=\toks49
+\titlewidth=\dimen307
+\titlewidthlast=\dimen308
+\titlewidthfirst=\dimen309
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
@@ -826,16 +845,16 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 ty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count343
+\c@section@level=\count344
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
 .sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen309
-\Hy@linkcounter=\count344
-\Hy@pagecounter=\count345
+\@linkdim=\dimen310
+\Hy@linkcounter=\count345
+\Hy@pagecounter=\count346
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
@@ -845,7 +864,7 @@ Now handling font encoding PD1 ...
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count346
+\Hy@SavedSpaceFactor=\count347
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -858,13 +877,13 @@ Package hyperref Info: Plain pages OFF on input line 4210.
 Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count347
+\c@Hy@tempcnt=\count348
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen310
+\XeTeXLinkMargin=\dimen311
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -874,9 +893,9 @@ lc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count348
-\Field@Width=\dimen311
-\Fld@charsize=\dimen312
+\Fld@menulength=\count349
+\Field@Width=\dimen312
+\Fld@charsize=\dimen313
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -884,16 +903,16 @@ Package hyperref Info: backreferencing OFF on input line 6093.
 Package hyperref Info: Link coloring OFF on input line 6098.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count349
-\c@Item=\count350
-\c@Hfootnote=\count351
+\Hy@abspage=\count350
+\c@Item=\count351
+\c@Hfootnote=\count352
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
-\Fld@listcount=\count352
-\c@bookmark@seq@number=\count353
+\Fld@listcount=\count353
+\c@bookmark@seq@number=\count354
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
 ilecheck.sty
@@ -906,7 +925,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip76
+\Hy@SectionHShift=\skip78
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
@@ -922,7 +941,7 @@ Package: expl3 2025-12-24 L3 programming layer (loader)
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
 dftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count354
+\l__color_backend_stack_int=\count355
 ))
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
@@ -947,7 +966,7 @@ File: lstlang1.sty 2025/11/14 1.11b listings language file
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 86
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 88
 .
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -960,36 +979,36 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Info: Redefining \. on input line 86.
-LaTeX Info: Redefining \% on input line 86.
-LaTeX Info: Redefining \microtypecontext on input line 86.
-Package microtype Info: Applying patch `item' on input line 86.
-Package microtype Info: Applying patch `toc' on input line 86.
-Package microtype Info: Applying patch `eqnum' on input line 86.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+LaTeX Info: Redefining \microtypecontext on input line 88.
+Package microtype Info: Applying patch `item' on input line 88.
+Package microtype Info: Applying patch `toc' on input line 88.
+Package microtype Info: Applying patch `eqnum' on input line 88.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 86.
+Package microtype Warning: Unable to apply patch `footnote' on input line 88.
 
-Package microtype Info: Applying patch `verbatim' on input line 86.
-LaTeX Info: Redefining \microtypesetup on input line 86.
+Package microtype Info: Applying patch `verbatim' on input line 88.
+LaTeX Info: Redefining \microtypesetup on input line 88.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1020,8 +1039,8 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * \textheight=702.78308pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=-38.1381pt
-* \headheight=12.0pt
+* \topmargin=-40.1381pt
+* \headheight=14.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -1042,17 +1061,17 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
 mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count355
-\scratchdimen=\dimen313
+\scratchcounter=\count356
+\scratchdimen=\dimen314
 \scratchbox=\box91
-\nofMPsegments=\count356
-\nofMParguments=\count357
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count358
-\MPscratchDim=\dimen314
-\MPnumerator=\count359
-\makeMPintoPDFobject=\count360
-\everyMPtoPDFconversion=\toks50
+\nofMPsegments=\count357
+\nofMParguments=\count358
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count359
+\MPscratchDim=\dimen315
+\MPnumerator=\count360
+\makeMPintoPDFobject=\count361
+\everyMPtoPDFconversion=\toks51
 )
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
 -base.sty
@@ -1073,8 +1092,8 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count361
-Package hyperref Info: Link coloring OFF on input line 86.
+\c@lstlisting=\count362
+Package hyperref Info: Link coloring OFF on input line 88.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1111,66 +1130,32 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 100.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 100.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 100
+.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 91--101
+(C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 100
+.
+(C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Overfull \hbox (6.0pt too wide) in paragraph at lines 93--101
 [][][][][][] 
  []
 
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 150--155
-[][][][][][] 
- []
-
-[1
-
-{C:/Users/USUARIO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/US
-UARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 155.
-
-[2] (main.toc)
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.159 \clearpage
-                 [1]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 193.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.193   \item \textbf
-                     {Cubiculos de Estudio Grupal (3 salas):} 2 laptops por ...
-[2
-
-{C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C
-:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}
-]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 128.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-93.
- (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+32.
+(C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1178,150 +1163,196 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
+Overfull \hbox (6.0pt too wide) in paragraph at lines 152--157
+[][][][][][] 
+ []
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+[1
 
+{C:/Users/USUARIO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/US
+UARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/USUA
+RIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
+(main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
 
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 225.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 ...o y Rosetas de Pared}{16}{subsection.11.2}
+                                                  % [1])
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
+ [2] [3
+
+{C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] 
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
 []|\T1/lmr/bx/n/10.95 (+20) Sala de
  []
 
 
-Underfull \hbox (badness 3942) in paragraph at lines 252--253
+Underfull \hbox (badness 3942) in paragraph at lines 255--256
 []|\T1/lmr/m/n/10.95 (+20) Investigacion aca-de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--253
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
 []|\T1/lmr/bx/n/10.95 (+20) Pasillos /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
 []|\T1/lmr/m/n/10.95 (+20) 2 lap-tops/cubiculo,
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 257--258
+Underfull \hbox (badness 1546) in paragraph at lines 260--261
 []|\T1/lmr/m/n/10.95 (+20) Catalogacion y ges-
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 258--258
+Underfull \hbox (badness 1028) in paragraph at lines 261--261
 []|\T1/lmr/m/n/10.95 (+20) UTP Cat 6
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 259--259
+Underfull \hbox (badness 1028) in paragraph at lines 262--262
 []|\T1/lmr/m/n/10.95 (+20) UTP Cat 6
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
-[]|\T1/lmr/m/n/10.95 (+20) Vigilancia; Cei-ling
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 263--264
+[]|\T1/lmr/m/n/10.95 (+20) Vigilancia; Cei-ling
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
 []|\T1/lmr/m/n/10.95 (+20) Distribuidos en 2
  []
 
-ignored error: Infinite glue shrinkage found in box being split
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 264.
-
-[4]
-Overfull \hbox (13.5001pt too wide) in paragraph at lines 282--283
+ignored error: Infinite glue shrinkage found in box being split [5]
+Overfull \hbox (13.5001pt too wide) in paragraph at lines 285--286
 \T1/lmr/m/n/12 (-20) Mbps). El Router-WAN (Cis-co 2911) se co-nec-ta al Switch-
 MDF-1 via \T1/lmtt/m/n/12 GigabitEthernet0/0
  []
 
-<topologia_logica.png, id=117, 707.64375pt x 416.757pt>
+<topologia_logica.png, id=302, 707.64375pt x 416.757pt>
 File: topologia_logica.png Graphic file (type png)
 <use topologia_logica.png>
-Package pdftex.def Info: topologia_logica.png  used on input line 286.
+Package pdftex.def Info: topologia_logica.png  used on input line 289.
 (pdftex.def)             Requested size: 388.09775pt x 228.56842pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 290.
-
-[5{C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.
+[6{C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.
 enc}]
-! Undefined control sequence.
-<inserted text> ...}Estrella Extendida \checkmark 
-                                                  \\ \midrule Aislamiento de...
-l.305 \end{tabularx}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<inserted text> ...}Estrella Extendida \checkmark 
-                                                  \\ \midrule Aislamiento de...
-l.305 \end{tabularx}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<inserted text> ...}Estrella Extendida \checkmark 
-                                                  \\ \midrule Aislamiento de...
-l.305 \end{tabularx}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 305--305
+Underfull \hbox (badness 1259) in paragraph at lines 308--308
 []|\T1/lmr/bx/n/10.95 (+20) Estrella Ex-ten-di-
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 305--305
+Underfull \hbox (badness 3907) in paragraph at lines 308--308
 []|\T1/lmr/m/n/10.95 (+20) Sin pun-to cen-tral,
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 305--305
+Underfull \hbox (badness 1527) in paragraph at lines 308--308
 []|\T1/lmr/bx/n/10.95 (+20) Inmediato en el
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
 []|\T1/lmr/bx/n/10.95 (+20) Norma
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 305--305
+Underfull \hbox (badness 7308) in paragraph at lines 308--308
+[]|\T1/lmr/bx/n/10.95 (+20) Full-Duplex, sin
+ []
+
+[7 <./topologia_logica.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+[]|\T1/lmr/m/n/10.95 (+20) Interfaz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+\T1/lmr/m/n/10.95 (+20) usua-rio y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+[]|\T1/lmr/m/n/10.95 (+20) Catalogo OPAC,
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 340--340
+[]|\T1/lmr/m/n/10.95 (+20) Formato y
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 340--340
+[]|\T1/lmr/m/n/10.95 (+20) Sesion del es-tu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+[]|\T1/lmr/m/n/10.95 (+20) Entrega
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 340--340
+[]|\T1/lmr/m/n/10.95 (+20) Segmentacion de
+ []
+
+
+Overfull \hbox (7.95091pt too wide) in paragraph at lines 340--340
+[]|\T1/lmr/m/n/10.95 (-20) Enrutamiento
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+[]|\T1/lmr/m/n/10.95 (+20) Router-WAN de
+ []
+
+
+Overfull \hbox (24.34575pt too wide) in paragraph at lines 340--340
+[]|\T1/lmr/m/n/10.95 (-20) Direccionamiento
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 340--340
+\T1/lmr/m/n/10.95 (+20) MAC, tra-
+ []
+
+
+Overfull \hbox (3.74791pt too wide) in paragraph at lines 340--340
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+[]|\T1/lmr/m/n/10.95 (+20) Switches Cis-co
+ []
+
+
+Overfull \hbox (8.46776pt too wide) in paragraph at lines 340--340
+[]|\T1/lmr/bx/n/10.95 (-20) Transmision
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+[]|\T1/lmr/bx/n/10.95 (+20) UTP Cat 6,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
+\T1/lmr/bx/n/10.90000) in paragraph at lines 309--309
+[]|\T1/lmr/bx/n/10.95 (+20) Norma
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 309--309
 []|\T1/lmr/bx/n/10.95 (+20) Full-Duplex, sin
  []
 
@@ -1332,573 +1363,176 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 310.
-
-[6 <./topologia_logica.png>]
+[7 <./topologia_logica.png>]
 ! Undefined control sequence.
 <inserted text> ...suario y servicios & \multirow 
                                                   {3}{*}{Aplicacion} & Catal...
-l.337 \end{tabularx}
+l.341 \end{tabularx}
                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<inserted text> ...amiento MAC, trama & \multirow 
-                                                  {2}{*}{Acceso Red} & Switc...
-l.337 \end{tabularx}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
+? 
+! Emergency stop.
 <inserted text> ...suario y servicios & \multirow 
                                                   {3}{*}{Aplicacion} & Catal...
-l.337 \end{tabularx}
+l.341 \end{tabularx}
                     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<inserted text> ...amiento MAC, trama & \multirow 
-                                                  {2}{*}{Acceso Red} & Switc...
-l.337 \end{tabularx}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (+20) Interfaz
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-\T1/lmr/m/n/10.95 (+20) usua-rio y
- []
-
-! Undefined control sequence.
-<inserted text> ...suario y servicios & \multirow 
-                                                  {3}{*}{Aplicacion} & Catal...
-l.337 \end{tabularx}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (8.69957pt too wide) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (-20) 3*Aplicacion| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (+20) Catalogo OPAC,
- []
-
-
-Underfull \hbox (badness 4739) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (+20) Formato y
- []
-
-
-Underfull \hbox (badness 6063) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (+20) Sesion del es-tu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (+20) Entrega
- []
-
-
-Underfull \hbox (badness 4886) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (+20) Segmentacion de
- []
-
-
-Overfull \hbox (7.95091pt too wide) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (-20) Enrutamiento
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (+20) Router-WAN de
- []
-
-
-Overfull \hbox (24.34575pt too wide) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (-20) Direccionamiento
- []
-
-
-Underfull \hbox (badness 7151) in paragraph at lines 337--337
-\T1/lmr/m/n/10.95 (+20) MAC, tra-
- []
-
-! Undefined control sequence.
-<inserted text> ...amiento MAC, trama & \multirow 
-                                                  {2}{*}{Acceso Red} & Switc...
-l.337 \end{tabularx}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (+20) 2*Acceso
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-[]|\T1/lmr/m/n/10.95 (+20) Switches Cis-co
- []
-
-
-Overfull \hbox (8.46776pt too wide) in paragraph at lines 337--337
-[]|\T1/lmr/bx/n/10.95 (-20) Transmision
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-[]|\T1/lmr/bx/n/10.95 (+20) UTP Cat 6,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-\T1/lmr/bx/n/10.95 (+20) RJ-45, Jacks,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--337
-\T1/lmr/bx/n/10.95 (+20) Patch Pa-nels,
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 338.
-
-[7]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 351.
-
-[8]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 378.
-
-[9]
-! Undefined control sequence.
-<inserted text> ...or {white}UTP Cat 6 \checkmark 
-                                                  \\ \midrule Ancho de Banda...
-l.394 \end{tabularx}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<inserted text> ...or {white}UTP Cat 6 \checkmark 
-                                                  \\ \midrule Ancho de Banda...
-l.394 \end{tabularx}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 6893) in paragraph at lines 394--394
-[]|\T1/lmr/m/n/10.95 (+20) Coaxial (RG-6/RG-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 394--394
-[]|\T1/lmr/m/n/10.95 (+20) Fibra Op-ti-ca
- []
-
-! Undefined control sequence.
-<inserted text> ...or {white}UTP Cat 6 \checkmark 
-                                                  \\ \midrule Ancho de Banda...
-l.394 \end{tabularx}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 394--394
-[]|\T1/lmr/m/n/10.95 (+20) Bajo: 10--100 MHz,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 394--394
-[]|\T1/lmr/bx/n/10.95 (+20) Inmunidad al
- []
-
-
-Underfull \hbox (badness 7740) in paragraph at lines 394--394
-\T1/lmr/bx/n/10.95 (+20) RJ-45 y punch-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 394--394
-[]|\T1/lmr/bx/n/10.95 (+20) Excelente: IEEE
- []
-
-
-Underfull \hbox (badness 2027) in paragraph at lines 394--394
-\T1/lmr/bx/n/10.95 (+20) 802.3at has-ta 30
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 403.
-
-[10]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 436.
-
-[11]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 479.
-
-[12]
-<main_wiring_closet.png, id=189, 466.1415pt x 475.7775pt>
-File: main_wiring_closet.png Graphic file (type png)
-<use main_wiring_closet.png>
-Package pdftex.def Info: main_wiring_closet.png  used on input line 484.
-(pdftex.def)             Requested size: 238.1466pt x 243.07162pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 495.
-
-[13 <./main_wiring_closet.png>]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 495.
-<plano_pkt.png, id=197, 1204.5pt x 963.6pt>
-File: plano_pkt.png Graphic file (type png)
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 35117 strings out of 467871
+ 691083 string characters out of 5417407
+ 1315066 words of memory out of 5000000
+ 63271 multiletter control sequences out of 15000+600000
+ 693512 words of font info for 145 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 98i,12n,108p,1135b,990s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
+pe png)
 <use plano_pkt.png>
-Package pdftex.def Info: plano_pkt.png  used on input line 516.
+Package pdftex.def Info: plano_pkt.png  used on input line 519.
 (pdftex.def)             Requested size: 441.01773pt x 352.82118pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 520.
-
-[14]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 15 undefined on input line 531.
-
-[15 <./plano_pkt.png (PNG copy)>]
-Underfull \hbox (badness 1424) in paragraph at lines 553--553
+ [15] [16 <./plano_pkt.png (PNG copy)>]
+Underfull \hbox (badness 1424) in paragraph at lines 556--556
 []|\T1/lmr/m/n/10.95 (+20) Cisco Ca-talyst 2960-24TT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--554
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
 []|\T1/lmr/m/n/10.95 (+20) Switch-MDF-1 y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 553--554
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
 \T1/lmr/m/n/10.95 (+20) Switch-MDF-2; nu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 554--555
+Underfull \hbox (badness 10000) in paragraph at lines 557--558
 []|\T1/lmr/m/n/10.95 (+20) Enlace WAN;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 554--555
+Underfull \hbox (badness 10000) in paragraph at lines 557--558
 \T1/lmr/m/n/10.95 (+20) IP de ges-tion
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 555--555
+Underfull \hbox (badness 7047) in paragraph at lines 558--558
 []|\T1/lmr/m/n/10.95 (+20) Patch Pa-
  []
 
 
-Underfull \hbox (badness 7907) in paragraph at lines 555--556
+Underfull \hbox (badness 7907) in paragraph at lines 558--559
 \T1/lmr/m/n/10.95 (+20) ca-blea-do ho-ri-zon-tal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--557
+Underfull \hbox (badness 10000) in paragraph at lines 560--560
 []|\T1/lmr/m/n/10.95 (+20) Servidor
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 558--559
+Underfull \hbox (badness 1590) in paragraph at lines 561--562
 []|\T1/lmr/m/n/10.95 (+20) Cobertura sec-to-ri-za-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--561
+Underfull \hbox (badness 10000) in paragraph at lines 564--564
 []|\T1/lmr/m/n/10.95 (+20) Wall
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 561--562
+Underfull \hbox (badness 7468) in paragraph at lines 564--565
 []|\T1/lmr/m/n/10.95 (+20) PCs, Bi-blio-te-ca-rios,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--562
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
 []|\T1/lmr/m/n/10.95 (+20) Ceiling
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--563
+Underfull \hbox (badness 10000) in paragraph at lines 566--566
 []|\T1/lmr/m/n/10.95 (+20) Conector
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 563--564
+Underfull \hbox (badness 10000) in paragraph at lines 566--567
 []|\T1/lmr/m/n/10.95 (+20) Armado de Patch
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 563--564
+Underfull \hbox (badness 1231) in paragraph at lines 566--567
 \T1/lmr/m/n/10.95 (+20) Cords de prue-ba y
  []
 
 
-Underfull \hbox (badness 5832) in paragraph at lines 565--566
+Underfull \hbox (badness 5832) in paragraph at lines 568--569
 []|\T1/lmr/m/n/10.95 (+20) Conexion Fa-ce-pla-te
  []
 
 
-Overfull \hbox (6.49359pt too wide) in paragraph at lines 566--566
+Overfull \hbox (6.49359pt too wide) in paragraph at lines 569--569
  []|\T1/lmr/m/n/10.95 (-20) Tramos| 
  []
 
 
-Overfull \hbox (6.49359pt too wide) in paragraph at lines 567--567
+Overfull \hbox (6.49359pt too wide) in paragraph at lines 570--570
  []|\T1/lmr/m/n/10.95 (-20) Tramos| 
  []
 
 
-Overfull \hbox (3.8278pt too wide) in paragraph at lines 568--568
+Overfull \hbox (3.8278pt too wide) in paragraph at lines 571--571
 []|\T1/lmr/m/n/10.95 (-20) Organizador| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 568--569
+Underfull \hbox (badness 10000) in paragraph at lines 571--572
 []|\T1/lmr/m/n/10.95 (+20) Peinado de Patch
  []
 
 
-Underfull \hbox (badness 5460) in paragraph at lines 568--569
+Underfull \hbox (badness 5460) in paragraph at lines 571--572
 \T1/lmr/m/n/10.95 (+20) Cords en-tre Patch
  []
 
 
-Overfull \hbox (0.95367pt too wide) in paragraph at lines 569--569
+Overfull \hbox (0.95367pt too wide) in paragraph at lines 572--572
 []|\T1/lmr/m/n/10.95 (-20) Ponchadora| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
 []|\T1/lmr/m/n/10.95 (+20) Herramienta Punch-Down
  []
 
-ignored error: Infinite glue shrinkage found in box being split
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 16 undefined on input line 570.
-
-[16]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 17 undefined on input line 577.
-
-[17]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 18 undefined on input line 610.
-
-[18]
-Underfull \hbox (badness 10000) in paragraph at lines 627--627
+ignored error: Infinite glue shrinkage found in box being split [17] [18]
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 630--630
 []|\T1/lmr/bx/n/10.95 (+20) Inspeccion
  []
 
 
-Underfull \hbox (badness 2662) in paragraph at lines 627--627
+Underfull \hbox (badness 2662) in paragraph at lines 630--630
 []|\T1/lmr/m/n/10.95 (+20) Observacion di-
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 627--627
+Underfull \hbox (badness 2460) in paragraph at lines 630--630
 []|\T1/lmr/m/n/10.95 (+20) NIC + Switch
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 627--627
+Underfull \hbox (badness 1043) in paragraph at lines 630--630
 []|\T1/lmr/m/n/10.95 (+20) 1000 Mbps Full-
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 19 undefined on input line 639.
-
-[19]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 20 undefined on input line 671.
-
-[20]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 21 undefined on input line 753.
-
-[21]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 22 undefined on input line 774.
-
-[22]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 777--784
+[20] [21] [22] [23]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 780--787
 [][][][][][] 
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-
-LaTeX Warning: Reference `LastPage' on page 23 undefined on input line 785.
-
-[23] 
+[24] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux
 LaTeX Info: Redefining \. on input line 11.
@@ -1908,33 +1542,17 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: DE5F99107BB5B14E08BF968BEFD63FEE;3021
-(rerunfilecheck)             After:  9C811AD5D4833279BFA6B57A5417F55D;12014.
-
-Package lastpage Warning: Rerun to get the references right on input line 785.
-
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 9C811AD5D4833279BFA6B57A5417F55D;12014.
  ) 
 Here is how much of TeX's memory you used:
- 35146 strings out of 467871
- 689913 string characters out of 5417407
- 1359436 words of memory out of 5000000
- 63114 multiletter control sequences out of 15000+600000
- 701218 words of font info for 204 fonts, out of 8000000 for 9000
+ 35823 strings out of 467871
+ 698856 string characters out of 5417407
+ 1360731 words of memory out of 5000000
+ 63749 multiletter control sequences out of 15000+600000
+ 713730 words of font info for 221 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,13n,108p,1135b,1336s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,13n,108p,1135b,1335s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.
 pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx1
 2.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmm
@@ -1946,14 +1564,16 @@ lm/lmr6.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 lm/lmr8.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 lm/lmri10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/lm/lmri12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/lm/lmsy10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/lm/lmsy8.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/lm/lmtt10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/lm/lmtt12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/lm/lmtti10.pfb>
-Output written on main.pdf (25 pages, 2244244 bytes).
+lic/lm/lmri8.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/lm/lmsy10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/lm/lmsy8.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/lm/lmtt10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/lm/lmtt12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/lm/lmtti10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (25 pages, 2306995 bytes).
 PDF statistics:
- 403 PDF objects out of 1000 (max. 8388607)
- 151 named destinations out of 1000 (max. 500000)
- 38548 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 584 PDF objects out of 1000 (max. 8388607)
+ 152 named destinations out of 1000 (max. 500000)
+ 44948 words of extra memory for PDF output out of 51595 (max. 10000000)
 

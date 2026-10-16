@@ -12,7 +12,7 @@
 \usepackage{lmodern}
 \usepackage{amssymb}
 \usepackage{microtype}
-\usepackage[top=2.5cm,bottom=2.5cm,left=3.0cm,right=2.5cm]{geometry}
+\usepackage[top=2.5cm,bottom=2.5cm,left=3.0cm,right=2.5cm,headheight=14pt]{geometry}
 \usepackage[dvipsnames,table]{xcolor}
 \usepackage{graphicx}
 \usepackage{float}
@@ -21,6 +21,7 @@
 \usepackage{tabularx}
 \usepackage{longtable}
 \usepackage{array}
+\usepackage{multirow}
 \usepackage{enumitem}
 \usepackage{listings}
 \usepackage{tcolorbox}
@@ -78,7 +79,7 @@
   xleftmargin=1.5em,rulecolor=\color{black!60}}
 
 \hypersetup{pdftitle={Memoria Tecnica -- LAN Biblioteca La Cantera},
-  pdfauthor={Grupo Redes I -- 2026},
+  pdfauthor={Grupo 5 -- Redes de Comunicacion I -- UNJBG 2026},
   pdfsubject={Cableado Estructurado Unidad I}}
 
 \setstretch{1.15}
@@ -89,73 +90,74 @@
 %% ── PORTADA ─────────────────────────────────────────────────
 \thispagestyle{empty}
 \begin{titlepage}
-  \noindent\colorbox{azulUni}{\parbox{\textwidth}{\vspace{0.6cm}\centering
+  \noindent\colorbox{azulUni}{\parbox{\textwidth}{\vspace{0.25cm}\centering
     %% LOGOS: Descomentar y ajustar rutas cuando tengas los archivos:
-    %% \includegraphics[height=2.5cm]{logo_universidad.png}\hspace{1.5cm}
-    %% \includegraphics[height=2.5cm]{logo_facultad.png}
-    %%
-    %% Por ahora se muestran recuadros de referencia:
-    \fbox{\parbox{3cm}{\centering\color{white}\footnotesize Logo\\Universidad\vspace{0.25cm}}}
+    %% \includegraphics[height=2cm]{logo_universidad.png}\hspace{1.5cm}
+    %% \includegraphics[height=2cm]{logo_facultad.png}
+    \fbox{\parbox{2.8cm}{\centering\color{white}\scriptsize Logo\\Universidad\vspace{0.15cm}}}
     \hspace{1cm}
-    \fbox{\parbox{3cm}{\centering\color{white}\footnotesize Logo\\Facultad\vspace{0.25cm}}}
-    \vspace{0.5cm}}}
+    \fbox{\parbox{2.8cm}{\centering\color{white}\scriptsize Logo\\Facultad\vspace{0.15cm}}}
+    \vspace{0.25cm}}}
 
-  \vspace{0.4cm}
+  \vspace{0.25cm}
   \begin{center}
-    {\large\bfseries\color{azulUni}[NOMBRE DE LA UNIVERSIDAD]}\\[0.1cm]
-    {\normalsize\color{azulClaro}Facultad de Ingenieria de Sistemas e Informatica}\\[0.05cm]
-    {\small\color{gray}Escuela Profesional de Ingenieria de Sistemas / Computacion}
+    {\large\bfseries\color{azulUni}UNIVERSIDAD NACIONAL JORGE BASADRE GROHMANN}\\[0.08cm]
+    {\normalsize\color{azulClaro}Facultad de Ingenieria de Sistemas e Informatica}\\[0.04cm]
+    {\small\color{gray}Escuela Profesional de Ingenieria en Informatica y Sistemas}
   \end{center}
 
-  \vspace{0.4cm}
-  \noindent\color{azulClaro}\rule{\textwidth}{1.5pt}\vspace{0.3cm}
+  \vspace{0.2cm}
+  \noindent\color{azulClaro}\rule{\textwidth}{1.2pt}\vspace{0.2cm}
 
   \begin{center}
-    {\small\bfseries\color{grisHeaders}MEMORIA TECNICA DE INGENIERIA -- UNIDAD I}\\[0.5cm]
+    {\footnotesize\bfseries\color{grisHeaders}MEMORIA TECNICA DE INGENIERIA -- UNIDAD I}\\[0.25cm]
     {\LARGE\bfseries\color{azulUni}
-      Diseno de la Infraestructura Fisica y\\[0.2cm]
-      Cableado Estructurado de una Red LAN\\[0.3cm]}
-    \noindent\color{azulClaro}\rule{0.6\textwidth}{0.8pt}\\[0.3cm]
-    {\large\bfseries\color{verdeTech}Biblioteca ``La Cantera''}\\[0.2cm]
-    {\normalsize\itshape\color{gray}
+      Diseno de la Infraestructura Fisica y\\[0.15cm]
+      Cableado Estructurado de una Red LAN\\[0.2cm]}
+    \noindent\color{azulClaro}\rule{0.5\textwidth}{0.6pt}\\[0.2cm]
+    {\large\bfseries\color{verdeTech}Biblioteca ``La Cantera''}\\[0.15cm]
+    {\small\itshape\color{gray}
       Capas 1 (Fisica) y 2 (Enlace de Datos) del Modelo OSI}
   \end{center}
 
-  \vspace{0.5cm}
-  \noindent\color{azulClaro}\rule{\textwidth}{1.5pt}\vspace{0.6cm}
+  \vspace{0.2cm}
+  \noindent\color{azulClaro}\rule{\textwidth}{1.2pt}\vspace{0.25cm}
 
   \begin{center}
-  \begin{tabular}{ll}
+  \small
+  \begin{tabular}{lll}
     \toprule
-    \multicolumn{2}{c}{\bfseries\color{azulUni}Equipo de Trabajo -- Grupo N.\ {[\,]}} \\
+    \multicolumn{3}{c}{\bfseries\color{azulUni}Equipo de Trabajo -- Grupo N.$^\circ$ 5} \\
     \midrule
-    \bfseries Integrante 1: & [Apellidos y Nombres] \\
-      & \small\itshape\color{gray}Analisis de la organizacion, problematica y requerimientos\\[3pt]
-    \bfseries Integrante 2: & [Apellidos y Nombres] \\
-      & \small\itshape\color{gray}Fundamentos, topologias, modelos OSI/TCP-IP y encapsulacion\\[3pt]
-    \bfseries Integrante 3: & [Apellidos y Nombres] \\
-      & \small\itshape\color{gray}Capa fisica, senales y seleccion de medios de transmision\\[3pt]
-    \bfseries Integrante 4: & [Apellidos y Nombres] \\
-      & \small\itshape\color{gray}Cableado estructurado, normas, rack y armado fisico UTP\\[3pt]
-    \bfseries Integrante 5: & [Apellidos y Nombres] \\
-      & \small\itshape\color{gray}Plano fisico, materiales, plan de pruebas y consolidacion\\[6pt]
-    \bfseries Curso:    & Redes de Comunicacion I \\
-    \bfseries Docente:  & [Nombre del Docente] \\
-    \bfseries Ciclo:    & [Ciclo Academico] \\
-    \bfseries Fecha:    & Octubre, 2026 \\
+    \bfseries Integrante 1: & CONDORI CALJARO, Luis Fernando & \texttt{2024-119031} \\
+      & \multicolumn{2}{l}{\scriptsize\itshape\color{gray}Analisis de la organizacion, problematica y requerimientos}\\[2pt]
+    \bfseries Integrante 2: & TELLEZ MEZA, Alexander Jesús & \texttt{2024-119038} \\
+      & \multicolumn{2}{l}{\scriptsize\itshape\color{gray}Fundamentos, topologias, modelos OSI/TCP-IP y encapsulacion}\\[2pt]
+    \bfseries Integrante 3: & MAQUERA CABRERA, Ivan & \texttt{2024-119047} \\
+      & \multicolumn{2}{l}{\scriptsize\itshape\color{gray}Capa fisica, senales y seleccion de medios de transmision}\\[2pt]
+    \bfseries Integrante 4: & CATARI PACORICUNA, Angel David & \texttt{2024-119057} \\
+      & \multicolumn{2}{l}{\scriptsize\itshape\color{gray}Cableado estructurado, normas, rack y armado fisico UTP}\\[2pt]
+    \bfseries Integrante 5: & MAMANI CATACORA, Johan Anibal & \texttt{2024-119021} \\
+      & \multicolumn{2}{l}{\scriptsize\itshape\color{gray}Plano fisico, materiales, plan de pruebas y consolidacion}\\[4pt]
+    \midrule
+    \bfseries Curso:   & \multicolumn{2}{l}{Redes de Comunicacion I} \\
+    \bfseries Docente: & \multicolumn{2}{l}{[Nombre del Docente]} \\
+    \bfseries Ciclo:   & \multicolumn{2}{l}{V Ciclo -- 2026} \\
+    \bfseries Fecha:   & \multicolumn{2}{l}{Octubre, 2026} \\
     \bottomrule
   \end{tabular}
   \end{center}
 
   \vfill
-  \noindent\colorbox{azulUni}{\parbox{\textwidth}{\centering\vspace{0.3cm}
+  \noindent\colorbox{azulUni}{\parbox{\textwidth}{\centering\vspace{0.25cm}
     {\small\color{white}
       \textbf{Curso:} Redes de Comunicacion I \quad|\quad
-      \textbf{Unidad I} \quad|\quad \textbf{Anio:} 2026}
-    \vspace{0.3cm}}}
+      \textbf{Unidad I} \quad|\quad \textbf{Grupo 5} \quad|\quad \textbf{Anio:} 2026}
+    \vspace{0.25cm}}}
 \end{titlepage}
 
 \thispagestyle{empty}
+\renewcommand{\contentsname}{Índice General}
 \tableofcontents
 \clearpage
 
