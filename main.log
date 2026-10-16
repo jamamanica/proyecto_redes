@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.16)  16 OCT 2026 12:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.16)  16 OCT 2026 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1158,7 +1158,7 @@ File: assets/logo_esis.png Graphic file (type png)
 Package pdftex.def Info: assets/logo_esis.png  used on input line 113.
 (pdftex.def)             Requested size: 71.12558pt x 71.13188pt.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-44.
+45.
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1166,20 +1166,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
-[]\T1/lmr/bx/n/12 (+20) Con-do-ri Cal-ja-ro, Luis Fer-nan-do[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
-[]\T1/lmr/bx/n/12 (+20) Ca-ta-ri Pa-co-ri-cu-na, An-gel Da-vid[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
-[]\T1/lmr/bx/n/12 (+20) Ma-ma-ni Ca-ta-co-ra, Johan Ani-bal[]
- []
 
 [1
 
@@ -1203,383 +1189,387 @@ l.34 ...o y Rosetas de Pared}{16}{subsection.11.2}
 
 {C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 260--260
+Underfull \hbox (badness 10000) in paragraph at lines 265--265
 []|\T1/lmr/bx/n/10.95 (+20) Sala de
  []
 
 
-Underfull \hbox (badness 3942) in paragraph at lines 260--261
+Underfull \hbox (badness 3942) in paragraph at lines 265--266
 []|\T1/lmr/m/n/10.95 (+20) Investigación aca-dé-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--261
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 []|\T1/lmr/bx/n/10.95 (+20) Pasillos /
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 265--266
+Underfull \hbox (badness 1546) in paragraph at lines 270--271
 []|\T1/lmr/m/n/10.95 (+20) Catalogación y ges-
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 266--266
+Underfull \hbox (badness 1028) in paragraph at lines 271--271
 []|\T1/lmr/m/n/10.95 (+20) UTP Cat 6
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 267--267
+Underfull \hbox (badness 1028) in paragraph at lines 272--272
 []|\T1/lmr/m/n/10.95 (+20) UTP Cat 6
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 []|\T1/lmr/m/n/10.95 (+20) Vigilancia; Cei-ling
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 []|\T1/lmr/m/n/10.95 (+20) Distribuidos en 2
  []
 
 ignored error: Infinite glue shrinkage found in box being split [5]
-Overfull \hbox (13.5001pt too wide) in paragraph at lines 290--291
+Overfull \hbox (13.5001pt too wide) in paragraph at lines 295--296
 \T1/lmr/m/n/12 (-20) Mbps). El Router-WAN (Cis-co 2911) se co-nec-ta al Switch-
 MDF-1 vía \T1/lmtt/m/n/12 GigabitEthernet0/0
  []
 
-<topologia_logica.png, id=303, 707.64375pt x 416.757pt>
+<topologia_logica.png, id=304, 707.64375pt x 416.757pt>
 File: topologia_logica.png Graphic file (type png)
 <use topologia_logica.png>
-Package pdftex.def Info: topologia_logica.png  used on input line 294.
+Package pdftex.def Info: topologia_logica.png  used on input line 299.
 (pdftex.def)             Requested size: 388.09775pt x 228.56842pt.
 [6{C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.
 enc}]
-Underfull \hbox (badness 1259) in paragraph at lines 313--313
+Underfull \hbox (badness 1259) in paragraph at lines 318--318
 []|\T1/lmr/bx/n/10.95 (+20) Estrella Ex-ten-di-
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 313--313
+Underfull \hbox (badness 3907) in paragraph at lines 318--318
 []|\T1/lmr/m/n/10.95 (+20) Sin pun-to cen-tral,
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 313--313
+Underfull \hbox (badness 1527) in paragraph at lines 318--318
 []|\T1/lmr/bx/n/10.95 (+20) Inmediato en el
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--313
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
 []|\T1/lmr/bx/n/10.95 (+20) Norma
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 313--313
+Underfull \hbox (badness 7308) in paragraph at lines 318--318
 []|\T1/lmr/bx/n/10.95 (+20) Full-Duplex, sin
  []
 
 [7 <./topologia_logica.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 []|\T1/lmr/m/n/10.95 (+20) Interfaz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 \T1/lmr/m/n/10.95 (+20) usua-rio y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 []|\T1/lmr/m/n/10.95 (+20) Catálogo OPAC,
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 345--345
+Underfull \hbox (badness 4739) in paragraph at lines 350--350
 []|\T1/lmr/m/n/10.95 (+20) Formato y
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 345--345
+Underfull \hbox (badness 6063) in paragraph at lines 350--350
 []|\T1/lmr/m/n/10.95 (+20) Sesión del es-tu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 []|\T1/lmr/m/n/10.95 (+20) Entrega
  []
 
 
-Underfull \hbox (badness 4886) in paragraph at lines 345--345
+Underfull \hbox (badness 4886) in paragraph at lines 350--350
 []|\T1/lmr/m/n/10.95 (+20) Segmentación de
  []
 
 
-Overfull \hbox (7.95091pt too wide) in paragraph at lines 345--345
+Overfull \hbox (7.95091pt too wide) in paragraph at lines 350--350
 []|\T1/lmr/m/n/10.95 (-20) Enrutamiento
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 []|\T1/lmr/m/n/10.95 (+20) Router-WAN de
  []
 
 
-Overfull \hbox (24.34575pt too wide) in paragraph at lines 345--345
+Overfull \hbox (24.34575pt too wide) in paragraph at lines 350--350
 []|\T1/lmr/m/n/10.95 (-20) Direccionamiento
  []
 
 
-Underfull \hbox (badness 7151) in paragraph at lines 345--345
+Underfull \hbox (badness 7151) in paragraph at lines 350--350
 \T1/lmr/m/n/10.95 (+20) MAC, tra-
  []
 
 
-Overfull \hbox (3.74791pt too wide) in paragraph at lines 345--345
+Overfull \hbox (3.74791pt too wide) in paragraph at lines 350--350
 []|[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 []|\T1/lmr/m/n/10.95 (+20) Switches Cis-co
  []
 
 
-Overfull \hbox (8.46776pt too wide) in paragraph at lines 345--345
+Overfull \hbox (8.46776pt too wide) in paragraph at lines 350--350
 []|\T1/lmr/bx/n/10.95 (-20) Transmisión
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 []|\T1/lmr/bx/n/10.95 (+20) UTP Cat 6,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 \T1/lmr/bx/n/10.95 (+20) RJ-45, Jacks,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--345
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 \T1/lmr/bx/n/10.95 (+20) Patch Pa-nels,
  []
 
 [8] [9] [10]
-Underfull \hbox (badness 6893) in paragraph at lines 402--402
+Underfull \hbox (badness 6893) in paragraph at lines 407--407
 []|\T1/lmr/m/n/10.95 (+20) Coaxial (RG-6/RG-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--402
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
 []|\T1/lmr/m/n/10.95 (+20) Fibra Óp-ti-ca
  []
 
 
-Underfull \hbox (badness 2503) in paragraph at lines 402--402
+Underfull \hbox (badness 2503) in paragraph at lines 407--407
 []|\T1/lmr/m/n/10.95 (+20) Bajo: 10--100 MHz,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--402
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
 []|\T1/lmr/bx/n/10.95 (+20) Inmunidad al
  []
 
 
-Underfull \hbox (badness 7740) in paragraph at lines 402--402
+Underfull \hbox (badness 7740) in paragraph at lines 407--407
 \T1/lmr/bx/n/10.95 (+20) RJ-45 y punch-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--402
+Underfull \hbox (badness 10000) in paragraph at lines 407--407
 []|\T1/lmr/bx/n/10.95 (+20) Excelente: IEEE
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 402--402
+Underfull \hbox (badness 2027) in paragraph at lines 407--407
 \T1/lmr/bx/n/10.95 (+20) 802.3at has-ta 30
  []
 
 [11] [12] [13]
-<main_wiring_closet.png, id=369, 466.1415pt x 475.7775pt>
+<main_wiring_closet.png, id=370, 466.1415pt x 475.7775pt>
 File: main_wiring_closet.png Graphic file (type png)
 <use main_wiring_closet.png>
-Package pdftex.def Info: main_wiring_closet.png  used on input line 492.
+Package pdftex.def Info: main_wiring_closet.png  used on input line 497.
 (pdftex.def)             Requested size: 238.1466pt x 243.07162pt.
  [14 <./main_wiring_closet.png>]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 503.
-<plano_pkt.png, id=377, 1204.5pt x 963.6pt>
+nput line 508.
+<plano_pkt.png, id=378, 1204.5pt x 963.6pt>
 File: plano_pkt.png Graphic file (type png)
 <use plano_pkt.png>
-Package pdftex.def Info: plano_pkt.png  used on input line 524.
+Package pdftex.def Info: plano_pkt.png  used on input line 529.
 (pdftex.def)             Requested size: 441.01773pt x 352.82118pt.
  [15] [16 <./plano_pkt.png (PNG copy)>]
-Underfull \hbox (badness 1424) in paragraph at lines 561--561
+Underfull \hbox (badness 1424) in paragraph at lines 566--566
 []|\T1/lmr/m/n/10.95 (+20) Cisco Ca-talyst 2960-24TT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--562
+Underfull \hbox (badness 10000) in paragraph at lines 566--567
 []|\T1/lmr/m/n/10.95 (+20) Switch-MDF-1 y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--562
+Underfull \hbox (badness 10000) in paragraph at lines 566--567
 \T1/lmr/m/n/10.95 (+20) Switch-MDF-2; nú-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
 []|\T1/lmr/m/n/10.95 (+20) Enlace WAN;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
 \T1/lmr/m/n/10.95 (+20) IP de ges-tión
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 563--563
+Underfull \hbox (badness 7047) in paragraph at lines 568--568
 []|\T1/lmr/m/n/10.95 (+20) Patch Pa-
  []
 
 
-Underfull \hbox (badness 7907) in paragraph at lines 563--564
+Underfull \hbox (badness 7907) in paragraph at lines 568--569
 \T1/lmr/m/n/10.95 (+20) ca-blea-do ho-ri-zon-tal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 565--565
+Underfull \hbox (badness 10000) in paragraph at lines 570--570
 []|\T1/lmr/m/n/10.95 (+20) Servidor
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 566--567
+Underfull \hbox (badness 1590) in paragraph at lines 571--572
 []|\T1/lmr/m/n/10.95 (+20) Cobertura sec-to-ri-za-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 569--569
+Underfull \hbox (badness 10000) in paragraph at lines 574--574
 []|\T1/lmr/m/n/10.95 (+20) Wall
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 569--570
+Underfull \hbox (badness 7468) in paragraph at lines 574--575
 []|\T1/lmr/m/n/10.95 (+20) PCs, Bi-blio-te-ca-rios,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 570--570
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
 []|\T1/lmr/m/n/10.95 (+20) Ceiling
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 571--571
+Underfull \hbox (badness 10000) in paragraph at lines 576--576
 []|\T1/lmr/m/n/10.95 (+20) Conector
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 571--572
+Underfull \hbox (badness 10000) in paragraph at lines 576--577
 []|\T1/lmr/m/n/10.95 (+20) Armado de Patch
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 571--572
+Underfull \hbox (badness 1231) in paragraph at lines 576--577
 \T1/lmr/m/n/10.95 (+20) Cords de prue-ba y
  []
 
 
-Underfull \hbox (badness 5832) in paragraph at lines 573--574
+Underfull \hbox (badness 5832) in paragraph at lines 578--579
 []|\T1/lmr/m/n/10.95 (+20) Conexión Fa-ce-pla-te
  []
 
 
-Overfull \hbox (6.49359pt too wide) in paragraph at lines 574--574
+Overfull \hbox (6.49359pt too wide) in paragraph at lines 579--579
  []|\T1/lmr/m/n/10.95 (-20) Tramos| 
  []
 
 
-Overfull \hbox (6.49359pt too wide) in paragraph at lines 575--575
+Overfull \hbox (6.49359pt too wide) in paragraph at lines 580--580
  []|\T1/lmr/m/n/10.95 (-20) Tramos| 
  []
 
 
-Overfull \hbox (3.8278pt too wide) in paragraph at lines 576--576
+Overfull \hbox (3.8278pt too wide) in paragraph at lines 581--581
 []|\T1/lmr/m/n/10.95 (-20) Organizador| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 576--577
+Underfull \hbox (badness 10000) in paragraph at lines 581--582
 []|\T1/lmr/m/n/10.95 (+20) Peinado de Patch
  []
 
 
-Underfull \hbox (badness 5460) in paragraph at lines 576--577
+Underfull \hbox (badness 5460) in paragraph at lines 581--582
 \T1/lmr/m/n/10.95 (+20) Cords en-tre Patch
  []
 
 
-Overfull \hbox (0.95367pt too wide) in paragraph at lines 577--577
+Overfull \hbox (0.95367pt too wide) in paragraph at lines 582--582
 []|\T1/lmr/m/n/10.95 (-20) Ponchadora| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--577
+Underfull \hbox (badness 10000) in paragraph at lines 582--582
 []|\T1/lmr/m/n/10.95 (+20) Herramienta Punch-Down
  []
 
 ignored error: Infinite glue shrinkage found in box being split [17] [18]
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 635--635
+Underfull \hbox (badness 10000) in paragraph at lines 640--640
 []|\T1/lmr/bx/n/10.95 (+20) Inspección
  []
 
 
-Underfull \hbox (badness 2662) in paragraph at lines 635--635
+Underfull \hbox (badness 2662) in paragraph at lines 640--640
 []|\T1/lmr/m/n/10.95 (+20) Observación di-
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 635--635
+Underfull \hbox (badness 2460) in paragraph at lines 640--640
 []|\T1/lmr/m/n/10.95 (+20) NIC + Switch
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 635--635
+Underfull \hbox (badness 1043) in paragraph at lines 640--640
 []|\T1/lmr/m/n/10.95 (+20) 1000 Mbps Full-
  []
 
 [20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 687--688
+
+ []
+
 <assets/fotos_cable_utp/foto1_colores.jpg, id=447, 448.67625pt x 448.67625pt>
 File: assets/fotos_cable_utp/foto1_colores.jpg Graphic file (type jpg)
 <use assets/fotos_cable_utp/foto1_colores.jpg>
 Package pdftex.def Info: assets/fotos_cable_utp/foto1_colores.jpg  used on inpu
-t line 703.
+t line 708.
 (pdftex.def)             Requested size: 147.95407pt x 147.95407pt.
 <assets/fotos_cable_utp/foto2_crimpado.jpg, id=448, 1204.5pt x 1606.0pt>
 File: assets/fotos_cable_utp/foto2_crimpado.jpg Graphic file (type jpg)
 <use assets/fotos_cable_utp/foto2_crimpado.jpg>
 Package pdftex.def Info: assets/fotos_cable_utp/foto2_crimpado.jpg  used on inp
-ut line 709.
+ut line 714.
 (pdftex.def)             Requested size: 110.95502pt x 147.94003pt.
 <assets/fotos_cable_utp/foto3_cable.jpg, id=449, 298.11375pt x 316.93407pt>
 File: assets/fotos_cable_utp/foto3_cable.jpg Graphic file (type jpg)
 <use assets/fotos_cable_utp/foto3_cable.jpg>
 Package pdftex.def Info: assets/fotos_cable_utp/foto3_cable.jpg  used on input 
-line 715.
+line 720.
 (pdftex.def)             Requested size: 139.17186pt x 147.95796pt.
 <assets/fotos_cable_utp/foto4_tester1.jpg, id=450, 233.37187pt x 213.79875pt>
 File: assets/fotos_cable_utp/foto4_tester1.jpg Graphic file (type jpg)
 <use assets/fotos_cable_utp/foto4_tester1.jpg>
 Package pdftex.def Info: assets/fotos_cable_utp/foto4_tester1.jpg  used on inpu
-t line 721.
+t line 726.
 (pdftex.def)             Requested size: 161.4968pt x 147.9519pt.
- [22]
+[22]
 <assets/plano/plano_biblioteca_final.jpg, id=466, 1453.43pt x 1090.0725pt>
 File: assets/plano/plano_biblioteca_final.jpg Graphic file (type jpg)
 <use assets/plano/plano_biblioteca_final.jpg>
 Package pdftex.def Info: assets/plano/plano_biblioteca_final.jpg  used on input
- line 731.
+ line 736.
 (pdftex.def)             Requested size: 441.01773pt x 330.76672pt.
  [23 <./assets/fotos_cable_utp/foto1_colores.jpg> <./assets/fotos_cable_utp/fot
 o2_crimpado.jpg> <./assets/fotos_cable_utp/foto3_cable.jpg> <./assets/fotos_cab
@@ -1593,27 +1583,17 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 5F247C4B01A60CA6FF9DC8AC45CE85DF;12080
-(rerunfilecheck)             After:  C3C9FA4B645C7CD4A6B9210F6B89AC1D;11980.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: C3C9FA4B645C7CD4A6B9210F6B89AC1D;11980.
  ) 
 Here is how much of TeX's memory you used:
- 35848 strings out of 467871
- 700600 string characters out of 5417407
+ 35851 strings out of 467871
+ 700685 string characters out of 5417407
  1361049 words of memory out of 5000000
- 63791 multiletter control sequences out of 15000+600000
+ 63794 multiletter control sequences out of 15000+600000
  705434 words of font info for 211 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,13n,108p,1135b,1336s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,13n,108p,1135b,1335s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.
 pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx1
 2.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmm
@@ -1630,7 +1610,7 @@ ublic/lm/lmsy8.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/lm/lmtt10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type
 1/public/lm/lmtt12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (25 pages, 2829662 bytes).
+Output written on main.pdf (25 pages, 2829718 bytes).
 PDF statistics:
  579 PDF objects out of 1000 (max. 8388607)
  152 named destinations out of 1000 (max. 500000)
