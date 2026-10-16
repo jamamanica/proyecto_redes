@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.16)  16 OCT 2026 10:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.10.16)  16 OCT 2026 11:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -80,9 +80,9 @@ Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
 LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) 
-on input line 12.
+on input line 13.
 LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1)
- on input line 12.
+ on input line 13.
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -966,7 +966,7 @@ File: lstlang1.sty 2025/11/14 1.11b listings language file
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 88
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 91
 .
  (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -979,36 +979,36 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Info: Redefining \. on input line 88.
-LaTeX Info: Redefining \% on input line 88.
-LaTeX Info: Redefining \microtypecontext on input line 88.
-Package microtype Info: Applying patch `item' on input line 88.
-Package microtype Info: Applying patch `toc' on input line 88.
-Package microtype Info: Applying patch `eqnum' on input line 88.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+LaTeX Info: Redefining \microtypecontext on input line 91.
+Package microtype Info: Applying patch `item' on input line 91.
+Package microtype Info: Applying patch `toc' on input line 91.
+Package microtype Info: Applying patch `eqnum' on input line 91.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 88.
+Package microtype Warning: Unable to apply patch `footnote' on input line 91.
 
-Package microtype Info: Applying patch `verbatim' on input line 88.
-LaTeX Info: Redefining \microtypesetup on input line 88.
+Package microtype Info: Applying patch `verbatim' on input line 91.
+LaTeX Info: Redefining \microtypesetup on input line 91.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1039,8 +1039,8 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * \textheight=702.78308pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
-* \topmargin=-40.1381pt
-* \headheight=14.0pt
+* \topmargin=-40.6381pt
+* \headheight=14.5pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -1093,7 +1093,7 @@ Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count362
-Package hyperref Info: Link coloring OFF on input line 88.
+Package hyperref Info: Link coloring OFF on input line 91.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1101,36 +1101,41 @@ Package hyperref Info: Link coloring OFF on input line 88.
 
 Couldn't patch \ttl@straight@ii
 Couldn't patch \ttl@straight@ii
+<assets/logo_unjbg.png, id=194, 472.76625pt x 531.9875pt>
+File: assets/logo_unjbg.png Graphic file (type png)
+<use assets/logo_unjbg.png>
+Package pdftex.def Info: assets/logo_unjbg.png  used on input line 100.
+(pdftex.def)             Requested size: 63.2075pt x 71.13188pt.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-00.
+01.
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-00.
+01.
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-100.
+101.
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-100.
+101.
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 100.
+(Font)              <12> on input line 101.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 100.
+(Font)              <8> on input line 101.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 100.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 100
+(Font)              <6> on input line 101.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 101
 .
 
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -1139,7 +1144,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 100
+LaTeX Font Info:    Trying to load font information for U+msb on input line 101
 .
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1147,14 +1152,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Overfull \hbox (6.0pt too wide) in paragraph at lines 93--101
-[][][][][][] 
- []
-
+<assets/logo_esis.png, id=195, 448.67625pt x 448.67625pt>
+File: assets/logo_esis.png Graphic file (type png)
+<use assets/logo_esis.png>
+Package pdftex.def Info: assets/logo_esis.png  used on input line 113.
+(pdftex.def)             Requested size: 71.12558pt x 71.13188pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 128.
+(Font)              <10> on input line 149.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 149.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 149.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-32.
+56.
 (C:\Users\USUARIO\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1163,16 +1173,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 152--157
-[][][][][][] 
- []
-
 [1
 
 {C:/Users/USUARIO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/US
 UARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/USUA
-RIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}]
-(main.toc
+RIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc} <./assets/l
+ogo_unjbg.png (PNG copy)> <./assets/logo_esis.png (PNG copy)>] (main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 
@@ -1189,350 +1195,354 @@ l.34 ...o y Rosetas de Pared}{16}{subsection.11.2}
 
 {C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 276--276
 []|\T1/lmr/bx/n/10.95 (+20) Sala de
  []
 
 
-Underfull \hbox (badness 3942) in paragraph at lines 255--256
-[]|\T1/lmr/m/n/10.95 (+20) Investigacion aca-de-
+Underfull \hbox (badness 3942) in paragraph at lines 276--277
+[]|\T1/lmr/m/n/10.95 (+20) Investigación aca-dé-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 []|\T1/lmr/bx/n/10.95 (+20) Pasillos /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 257--258
-[]|\T1/lmr/m/n/10.95 (+20) 2 lap-tops/cubiculo,
+Underfull \hbox (badness 1546) in paragraph at lines 281--282
+[]|\T1/lmr/m/n/10.95 (+20) Catalogación y ges-
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 260--261
-[]|\T1/lmr/m/n/10.95 (+20) Catalogacion y ges-
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 261--261
+Underfull \hbox (badness 1028) in paragraph at lines 282--282
 []|\T1/lmr/m/n/10.95 (+20) UTP Cat 6
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 262--262
+Underfull \hbox (badness 1028) in paragraph at lines 283--283
 []|\T1/lmr/m/n/10.95 (+20) UTP Cat 6
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
 []|\T1/lmr/m/n/10.95 (+20) Vigilancia; Cei-ling
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
 []|\T1/lmr/m/n/10.95 (+20) Distribuidos en 2
  []
 
 ignored error: Infinite glue shrinkage found in box being split [5]
-Overfull \hbox (13.5001pt too wide) in paragraph at lines 285--286
+Overfull \hbox (13.5001pt too wide) in paragraph at lines 306--307
 \T1/lmr/m/n/12 (-20) Mbps). El Router-WAN (Cis-co 2911) se co-nec-ta al Switch-
-MDF-1 via \T1/lmtt/m/n/12 GigabitEthernet0/0
+MDF-1 vía \T1/lmtt/m/n/12 GigabitEthernet0/0
  []
 
 <topologia_logica.png, id=302, 707.64375pt x 416.757pt>
 File: topologia_logica.png Graphic file (type png)
 <use topologia_logica.png>
-Package pdftex.def Info: topologia_logica.png  used on input line 289.
+Package pdftex.def Info: topologia_logica.png  used on input line 310.
 (pdftex.def)             Requested size: 388.09775pt x 228.56842pt.
 [6{C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.
 enc}]
-Underfull \hbox (badness 1259) in paragraph at lines 308--308
+Underfull \hbox (badness 1259) in paragraph at lines 329--329
 []|\T1/lmr/bx/n/10.95 (+20) Estrella Ex-ten-di-
  []
 
 
-Underfull \hbox (badness 3907) in paragraph at lines 308--308
+Underfull \hbox (badness 3907) in paragraph at lines 329--329
 []|\T1/lmr/m/n/10.95 (+20) Sin pun-to cen-tral,
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 308--308
+Underfull \hbox (badness 1527) in paragraph at lines 329--329
 []|\T1/lmr/bx/n/10.95 (+20) Inmediato en el
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
+Underfull \hbox (badness 10000) in paragraph at lines 329--329
 []|\T1/lmr/bx/n/10.95 (+20) Norma
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 308--308
+Underfull \hbox (badness 7308) in paragraph at lines 329--329
 []|\T1/lmr/bx/n/10.95 (+20) Full-Duplex, sin
  []
 
 [7 <./topologia_logica.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
 []|\T1/lmr/m/n/10.95 (+20) Interfaz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
 \T1/lmr/m/n/10.95 (+20) usua-rio y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
-[]|\T1/lmr/m/n/10.95 (+20) Catalogo OPAC,
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+[]|\T1/lmr/m/n/10.95 (+20) Catálogo OPAC,
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 340--340
+Underfull \hbox (badness 4739) in paragraph at lines 361--361
 []|\T1/lmr/m/n/10.95 (+20) Formato y
  []
 
 
-Underfull \hbox (badness 6063) in paragraph at lines 340--340
-[]|\T1/lmr/m/n/10.95 (+20) Sesion del es-tu-
+Underfull \hbox (badness 6063) in paragraph at lines 361--361
+[]|\T1/lmr/m/n/10.95 (+20) Sesión del es-tu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
 []|\T1/lmr/m/n/10.95 (+20) Entrega
  []
 
 
-Underfull \hbox (badness 4886) in paragraph at lines 340--340
-[]|\T1/lmr/m/n/10.95 (+20) Segmentacion de
+Underfull \hbox (badness 4886) in paragraph at lines 361--361
+[]|\T1/lmr/m/n/10.95 (+20) Segmentación de
  []
 
 
-Overfull \hbox (7.95091pt too wide) in paragraph at lines 340--340
+Overfull \hbox (7.95091pt too wide) in paragraph at lines 361--361
 []|\T1/lmr/m/n/10.95 (-20) Enrutamiento
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
 []|\T1/lmr/m/n/10.95 (+20) Router-WAN de
  []
 
 
-Overfull \hbox (24.34575pt too wide) in paragraph at lines 340--340
+Overfull \hbox (24.34575pt too wide) in paragraph at lines 361--361
 []|\T1/lmr/m/n/10.95 (-20) Direccionamiento
  []
 
 
-Underfull \hbox (badness 7151) in paragraph at lines 340--340
+Underfull \hbox (badness 7151) in paragraph at lines 361--361
 \T1/lmr/m/n/10.95 (+20) MAC, tra-
  []
 
 
-Overfull \hbox (3.74791pt too wide) in paragraph at lines 340--340
+Overfull \hbox (3.74791pt too wide) in paragraph at lines 361--361
 []|[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
 []|\T1/lmr/m/n/10.95 (+20) Switches Cis-co
  []
 
 
-Overfull \hbox (8.46776pt too wide) in paragraph at lines 340--340
-[]|\T1/lmr/bx/n/10.95 (-20) Transmision
+Overfull \hbox (8.46776pt too wide) in paragraph at lines 361--361
+[]|\T1/lmr/bx/n/10.95 (-20) Transmisión
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
 []|\T1/lmr/bx/n/10.95 (+20) UTP Cat 6,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
-\T1/lmr/bx/n/10.90000) in paragraph at lines 309--309
-[]|\T1/lmr/bx/n/10.95 (+20) Norma
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+\T1/lmr/bx/n/10.95 (+20) RJ-45, Jacks,
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 309--309
-[]|\T1/lmr/bx/n/10.95 (+20) Full-Duplex, sin
+Underfull \hbox (badness 10000) in paragraph at lines 361--361
+\T1/lmr/bx/n/10.95 (+20) Patch Pa-nels,
+ []
+
+[8] [9] [10]
+Underfull \hbox (badness 6893) in paragraph at lines 418--418
+[]|\T1/lmr/m/n/10.95 (+20) Coaxial (RG-6/RG-
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+Underfull \hbox (badness 10000) in paragraph at lines 418--418
+[]|\T1/lmr/m/n/10.95 (+20) Fibra Óp-ti-ca
+ []
 
-[7 <./topologia_logica.png>]
-! Undefined control sequence.
-<inserted text> ...suario y servicios & \multirow 
-                                                  {3}{*}{Aplicacion} & Catal...
-l.341 \end{tabularx}
-                    
-? 
-! Emergency stop.
-<inserted text> ...suario y servicios & \multirow 
-                                                  {3}{*}{Aplicacion} & Catal...
-l.341 \end{tabularx}
-                    
-End of file on the terminal!
 
- 
-Here is how much of TeX's memory you used:
- 35117 strings out of 467871
- 691083 string characters out of 5417407
- 1315066 words of memory out of 5000000
- 63271 multiletter control sequences out of 15000+600000
- 693512 words of font info for 145 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 98i,12n,108p,1135b,990s stack positions out of 10000i,1000n,20000p,200000b,200000s
-!  ==> Fatal error occurred, no output PDF file produced!
-pe png)
+Underfull \hbox (badness 2503) in paragraph at lines 418--418
+[]|\T1/lmr/m/n/10.95 (+20) Bajo: 10--100 MHz,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--418
+[]|\T1/lmr/bx/n/10.95 (+20) Inmunidad al
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 418--418
+\T1/lmr/bx/n/10.95 (+20) RJ-45 y punch-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--418
+[]|\T1/lmr/bx/n/10.95 (+20) Excelente: IEEE
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 418--418
+\T1/lmr/bx/n/10.95 (+20) 802.3at has-ta 30
+ []
+
+[11] [12] [13]
+<main_wiring_closet.png, id=369, 466.1415pt x 475.7775pt>
+File: main_wiring_closet.png Graphic file (type png)
+<use main_wiring_closet.png>
+Package pdftex.def Info: main_wiring_closet.png  used on input line 508.
+(pdftex.def)             Requested size: 238.1466pt x 243.07162pt.
+ [14 <./main_wiring_closet.png>]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 519.
+<plano_pkt.png, id=377, 1204.5pt x 963.6pt>
+File: plano_pkt.png Graphic file (type png)
 <use plano_pkt.png>
-Package pdftex.def Info: plano_pkt.png  used on input line 519.
+Package pdftex.def Info: plano_pkt.png  used on input line 540.
 (pdftex.def)             Requested size: 441.01773pt x 352.82118pt.
  [15] [16 <./plano_pkt.png (PNG copy)>]
-Underfull \hbox (badness 1424) in paragraph at lines 556--556
+Underfull \hbox (badness 1424) in paragraph at lines 577--577
 []|\T1/lmr/m/n/10.95 (+20) Cisco Ca-talyst 2960-24TT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 556--557
+Underfull \hbox (badness 10000) in paragraph at lines 577--578
 []|\T1/lmr/m/n/10.95 (+20) Switch-MDF-1 y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 556--557
-\T1/lmr/m/n/10.95 (+20) Switch-MDF-2; nu-
+Underfull \hbox (badness 10000) in paragraph at lines 577--578
+\T1/lmr/m/n/10.95 (+20) Switch-MDF-2; nú-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--558
+Underfull \hbox (badness 10000) in paragraph at lines 578--579
 []|\T1/lmr/m/n/10.95 (+20) Enlace WAN;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 557--558
-\T1/lmr/m/n/10.95 (+20) IP de ges-tion
+Underfull \hbox (badness 10000) in paragraph at lines 578--579
+\T1/lmr/m/n/10.95 (+20) IP de ges-tión
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 558--558
+Underfull \hbox (badness 7047) in paragraph at lines 579--579
 []|\T1/lmr/m/n/10.95 (+20) Patch Pa-
  []
 
 
-Underfull \hbox (badness 7907) in paragraph at lines 558--559
+Underfull \hbox (badness 7907) in paragraph at lines 579--580
 \T1/lmr/m/n/10.95 (+20) ca-blea-do ho-ri-zon-tal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 560--560
+Underfull \hbox (badness 10000) in paragraph at lines 581--581
 []|\T1/lmr/m/n/10.95 (+20) Servidor
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 561--562
+Underfull \hbox (badness 1590) in paragraph at lines 582--583
 []|\T1/lmr/m/n/10.95 (+20) Cobertura sec-to-ri-za-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 564--564
+Underfull \hbox (badness 10000) in paragraph at lines 585--585
 []|\T1/lmr/m/n/10.95 (+20) Wall
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 564--565
+Underfull \hbox (badness 7468) in paragraph at lines 585--586
 []|\T1/lmr/m/n/10.95 (+20) PCs, Bi-blio-te-ca-rios,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 565--565
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
 []|\T1/lmr/m/n/10.95 (+20) Ceiling
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 566--566
+Underfull \hbox (badness 10000) in paragraph at lines 587--587
 []|\T1/lmr/m/n/10.95 (+20) Conector
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 566--567
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
 []|\T1/lmr/m/n/10.95 (+20) Armado de Patch
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 566--567
+Underfull \hbox (badness 1231) in paragraph at lines 587--588
 \T1/lmr/m/n/10.95 (+20) Cords de prue-ba y
  []
 
 
-Underfull \hbox (badness 5832) in paragraph at lines 568--569
-[]|\T1/lmr/m/n/10.95 (+20) Conexion Fa-ce-pla-te
+Underfull \hbox (badness 5832) in paragraph at lines 589--590
+[]|\T1/lmr/m/n/10.95 (+20) Conexión Fa-ce-pla-te
  []
 
 
-Overfull \hbox (6.49359pt too wide) in paragraph at lines 569--569
+Overfull \hbox (6.49359pt too wide) in paragraph at lines 590--590
  []|\T1/lmr/m/n/10.95 (-20) Tramos| 
  []
 
 
-Overfull \hbox (6.49359pt too wide) in paragraph at lines 570--570
+Overfull \hbox (6.49359pt too wide) in paragraph at lines 591--591
  []|\T1/lmr/m/n/10.95 (-20) Tramos| 
  []
 
 
-Overfull \hbox (3.8278pt too wide) in paragraph at lines 571--571
+Overfull \hbox (3.8278pt too wide) in paragraph at lines 592--592
 []|\T1/lmr/m/n/10.95 (-20) Organizador| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 571--572
+Underfull \hbox (badness 10000) in paragraph at lines 592--593
 []|\T1/lmr/m/n/10.95 (+20) Peinado de Patch
  []
 
 
-Underfull \hbox (badness 5460) in paragraph at lines 571--572
+Underfull \hbox (badness 5460) in paragraph at lines 592--593
 \T1/lmr/m/n/10.95 (+20) Cords en-tre Patch
  []
 
 
-Overfull \hbox (0.95367pt too wide) in paragraph at lines 572--572
+Overfull \hbox (0.95367pt too wide) in paragraph at lines 593--593
 []|\T1/lmr/m/n/10.95 (-20) Ponchadora| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--572
+Underfull \hbox (badness 10000) in paragraph at lines 593--593
 []|\T1/lmr/m/n/10.95 (+20) Herramienta Punch-Down
  []
 
 ignored error: Infinite glue shrinkage found in box being split [17] [18]
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 630--630
-[]|\T1/lmr/bx/n/10.95 (+20) Inspeccion
+Underfull \hbox (badness 10000) in paragraph at lines 651--651
+[]|\T1/lmr/bx/n/10.95 (+20) Inspección
  []
 
 
-Underfull \hbox (badness 2662) in paragraph at lines 630--630
-[]|\T1/lmr/m/n/10.95 (+20) Observacion di-
+Underfull \hbox (badness 2662) in paragraph at lines 651--651
+[]|\T1/lmr/m/n/10.95 (+20) Observación di-
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 630--630
+Underfull \hbox (badness 2460) in paragraph at lines 651--651
 []|\T1/lmr/m/n/10.95 (+20) NIC + Switch
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 630--630
+Underfull \hbox (badness 1043) in paragraph at lines 651--651
 []|\T1/lmr/m/n/10.95 (+20) 1000 Mbps Full-
  []
 
-[20] [21] [22] [23]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 780--787
-[][][][][][] 
- []
+[20] [21] [22] [23] [24]
 
-[24] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (main.aux
 LaTeX Info: Redefining \. on input line 11.
@@ -1543,16 +1553,16 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9C811AD5D4833279BFA6B57A5417F55D;12014.
+(rerunfilecheck)             Checksum: 5F247C4B01A60CA6FF9DC8AC45CE85DF;12080.
  ) 
 Here is how much of TeX's memory you used:
- 35823 strings out of 467871
- 698856 string characters out of 5417407
- 1360731 words of memory out of 5000000
- 63749 multiletter control sequences out of 15000+600000
- 713730 words of font info for 221 fonts, out of 8000000 for 9000
+ 35889 strings out of 467871
+ 699996 string characters out of 5417407
+ 1361068 words of memory out of 5000000
+ 63799 multiletter control sequences out of 15000+600000
+ 726023 words of font info for 240 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,13n,108p,1135b,1335s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,13n,108p,1135b,1336s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.
 pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx1
 2.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmm
@@ -1571,9 +1581,9 @@ public/lm/lmsy8.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/type1
 e1/public/lm/lmtt12.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/lm/lmtti10.pfb><C:/Users/USUARIO/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (25 pages, 2306995 bytes).
+Output written on main.pdf (25 pages, 2593819 bytes).
 PDF statistics:
- 584 PDF objects out of 1000 (max. 8388607)
+ 583 PDF objects out of 1000 (max. 8388607)
  152 named destinations out of 1000 (max. 500000)
- 44948 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 51102 words of extra memory for PDF output out of 51595 (max. 10000000)
 

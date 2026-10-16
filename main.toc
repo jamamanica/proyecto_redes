@@ -1,48 +1,48 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}Introduccion}{3}{section.1}%
-\contentsline {section}{\numberline {2}Descripcion de la Organizacion}{3}{section.2}%
+\contentsline {section}{\numberline {1}Introducción}{3}{section.1}%
+\contentsline {section}{\numberline {2}Descripción de la Organización}{3}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Actividad y Servicios}{3}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Ambientes Fisicos y Distribucion Espacial}{3}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Poblacion y Usuarios}{4}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Problematica}{4}{section.3}%
+\contentsline {subsection}{\numberline {2.2}Ambientes Físicos y Distribución Espacial}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Población y Usuarios}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Problemática}{4}{section.3}%
 \contentsline {section}{\numberline {4}Objetivos}{4}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Objetivo General}{5}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Objetivos Especificos}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.2}Objetivos Específicos}{5}{subsection.4.2}%
 \contentsline {section}{\numberline {5}Requerimientos de Red}{5}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Inventario de Dispositivos y Nodos de Conexion}{5}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Capacidad de Access Points (Usuarios Inalambricos)}{6}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Tipo y Topologia de Red}{6}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Clasificacion por Alcance: Red de Area Local (LAN)}{6}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Topologia Fisica: Estrella Extendida -- Seccion 7}{6}{subsection.6.2}%
-\contentsline {subsubsection}{\numberline {6.2.1}Justificacion Tecnica: Estrella Extendida vs.\ Bus vs.\ Anillo}{7}{subsubsection.6.2.1}%
-\contentsline {subsection}{\numberline {6.3}Topologia Logica}{8}{subsection.6.3}%
+\contentsline {subsection}{\numberline {5.1}Inventario de Dispositivos y Nodos de Conexión}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Capacidad de Access Points (Usuarios Inalámbricos)}{6}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Tipo y Topología de Red}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Clasificación por Alcance: Red de Área Local (LAN)}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Topología Física: Estrella Extendida}{6}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Justificación Técnica: Estrella Extendida vs.\ Bus vs.\ Anillo}{7}{subsubsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.3}Topología Lógica}{8}{subsection.6.3}%
 \contentsline {section}{\numberline {7}Modelos de Referencia: OSI y TCP/IP}{8}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Mapeo de Capas en el Contexto de la Biblioteca}{9}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Proceso de Encapsulacion y Desencapsulacion}{9}{subsection.7.2}%
-\contentsline {section}{\numberline {8}Sistemas y Medios de Comunicacion (Capa Fisica)}{10}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Tipos de Senales en la Biblioteca}{10}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}Factores de Degradacion y Mitigacion}{10}{subsection.8.2}%
-\contentsline {section}{\numberline {9}Seleccion y Justificacion de Medios de Transmision}{11}{section.9}%
+\contentsline {subsection}{\numberline {7.2}Proceso de Encapsulación y Desencapsulación}{9}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Sistemas y Medios de Comunicación (Capa Física)}{10}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Tipos de Señales en la Biblioteca}{10}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Factores de Degradación y Mitigación}{10}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Selección y Justificación de Medios de Transmisión}{11}{section.9}%
 \contentsline {section}{\numberline {10}Cableado Estructurado}{12}{section.10}%
 \contentsline {subsection}{\numberline {10.1}Subsistemas de Cableado Implementados}{12}{subsection.10.1}%
 \contentsline {subsubsection}{\numberline {10.1.1}Regla de Distancias del Canal Horizontal (ANSI/TIA-568)}{12}{subsubsection.10.1.1}%
-\contentsline {subsection}{\numberline {10.2}Norma T568B -- Codigo de Colores Adoptado (Segmentacion de Patch Panels)}{13}{subsection.10.2}%
-\contentsline {subsection}{\numberline {10.3}Distribucion del Rack de Telecomunicaciones (MDF -- 24U)}{14}{subsection.10.3}%
-\contentsline {subsection}{\numberline {10.4}Configuracion CLI del Router-WAN (Cisco 2911)}{15}{subsection.10.4}%
-\contentsline {section}{\numberline {11}Diseno Fisico y Plano de Red}{15}{section.11}%
+\contentsline {subsection}{\numberline {10.2}Norma T568B -- Código de Colores Adoptado (Segmentación de Patch Panels)}{13}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Distribución del Rack de Telecomunicaciones (MDF -- 24U)}{14}{subsection.10.3}%
+\contentsline {subsection}{\numberline {10.4}Configuración CLI del Router-WAN (Cisco 2911)}{15}{subsection.10.4}%
+\contentsline {section}{\numberline {11}Diseño Físico y Plano de Red}{15}{section.11}%
 \contentsline {subsection}{\numberline {11.1}Plano General de la Biblioteca (Cisco Packet Tracer)}{16}{subsection.11.1}%
 \contentsline {subsection}{\numberline {11.2}Puntos de Acceso y Rosetas de Pared}{16}{subsection.11.2}%
-\contentsline {subsection}{\numberline {11.3}Rutas de Canalizacion}{17}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.3}Rutas de Canalización}{17}{subsection.11.3}%
 \contentsline {section}{\numberline {12}Lista de Equipos y Materiales (BOM)}{17}{section.12}%
-\contentsline {section}{\numberline {13}Plan de Pruebas y Certificacion de Cableado}{19}{section.13}%
-\contentsline {subsection}{\numberline {13.1}Prueba 1: Inspeccion Visual Mecanica (TIA-568.2-D)}{19}{subsection.13.1}%
+\contentsline {section}{\numberline {13}Plan de Pruebas y Certificación de Cableado}{19}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Prueba 1: Inspección Visual Mecánica (TIA-568.2-D)}{19}{subsection.13.1}%
 \contentsline {subsection}{\numberline {13.2}Prueba 2: Continuidad y Mapa de Hilos (Wiremap Test)}{19}{subsection.13.2}%
-\contentsline {subsection}{\numberline {13.3}Prueba 3: Enlace Activo y Autonegociacion (Link Speed Test)}{20}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.3}Prueba 3: Enlace Activo y Autonegociación (Link Speed Test)}{20}{subsection.13.3}%
 \contentsline {subsection}{\numberline {13.4}Resumen del Plan de Pruebas}{20}{subsection.13.4}%
 \contentsline {section}{\numberline {14}Conclusiones}{20}{section.14}%
-\contentsline {section}{\numberline {15}Referencias Bibliograficas}{21}{section.15}%
+\contentsline {section}{\numberline {15}Referencias Bibliográficas}{21}{section.15}%
 \contentsline {section}{\numberline {16}Anexos}{21}{section.16}%
 \contentsline {subsection}{\numberline {16.1}Anexo A: Factor de Llenado de Canaletas (TIA-569)}{21}{subsection.16.1}%
-\contentsline {subsection}{\numberline {16.2}Anexo B: Guia de Armado del Cable UTP (Para Evaluacion Practica)}{22}{subsection.16.2}%
-\contentsline {subsection}{\numberline {16.3}Anexo C: Registro Fotografico del Cable UTP Construido}{23}{subsection.16.3}%
-\contentsline {subsection}{\numberline {16.4}Anexo D: Plano Arquitectonico de la Biblioteca (Miro / Draw.io)}{24}{subsection.16.4}%
+\contentsline {subsection}{\numberline {16.2}Anexo B: Guía de Armado del Cable UTP (Para Evaluación Práctica)}{22}{subsection.16.2}%
+\contentsline {subsection}{\numberline {16.3}Anexo C: Registro Fotográfico del Cable UTP Construido}{23}{subsection.16.3}%
+\contentsline {subsection}{\numberline {16.4}Anexo D: Plano Arquitectónico de la Biblioteca (Miro / Draw.io)}{24}{subsection.16.4}%
